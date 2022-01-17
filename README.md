@@ -7,9 +7,10 @@ The lending software that was built so far has been a big success for the compan
 ## Technologies
 
 Project uses:
-["Fire"](https://github.com/google/python-fire)
 
-["Questionary"](https://questionary.readthedocs.io/en/stable/index.html)
+[Fire](https://github.com/google/python-fire)
+
+[Questionary](https://questionary.readthedocs.io/en/stable/index.html)
 
 ---
 

@@ -1,0 +1,50 @@
+  412  python app.py
+  413  python status
+  414  conda deactivate
+  415  cd ~
+  416  pip install jupyterlab
+  417  jupyter-lab
+  418  conda activate dev
+  419  cd Desktop/Fintech_Bootcamp/tool_feature_workspace/tool_feature_improvement/
+  420  python app.py
+  421  pip install fire
+  422  conda activate dev
+  423  cd Desktop/Fintech_Bootcamp/tool_feature_workspace/tool_feature_improvement/Starter_Code/
+  424  python app.py
+  425  ls
+  426  cd loan_qualifier_app/
+  427  python app.py
+  428  cd ~
+  429  cd Desktop/Starter_Code/loan_qualifier_app/
+  430  python app.py
+  431  python app.py
+  432  python app.py
+  433  cd ~
+  434  cd Desktop/Fintech_Bootcamp/Work_Here/
+  435  ls
+  436  cd 02_Adding_questionary_to_Loan_Qualifier/
+  437  ls
+  438  cd Solved/
+  439  ls
+  440  python app.py
+  441  conda deactivate
+  442  commit app.py
+  443  git commit app.py
+  444  cd ~
+  445  cd Desktop/Fintech_Bootcamp/tool_feature_workspace/tool_feature_improvement/
+  446  ls
+  447  git commit app.py
+  448  cd Desktop/Fintech_Bootcamp/tool_feature_workspace/tool_feature_improvement/
+  449  git commit app.py -m "Updated code for CSV export"
+  450  cd Desktop/Fintech_Bootcamp/tool_feature_workspace/tool_feature_improvement/
+  451  ls
+  452  git commit app.py -m "Updating code for CSV export"
+  453  git pull
+  454  cd Desktop/Fintech_Bootcamp/tool_feature_workspace/tool_feature_improvement/
+  455  git commit app.py -m "Updating code for CSV export"
+  456  rm -f .git/index.lock
+  457  git commit app.py -m "Updating code for CSV export"
+  458  git push
+  459  git commit README.md -m "Updated content in README"
+  460  git push
+  461  history 50 > terminal_history.txt
